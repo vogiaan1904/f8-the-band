@@ -124,9 +124,9 @@ html{
         animation-iteration-count: infinite;
 }
 @keyframes slider {
-    0% {background: url('/assets/img/ny.jpg')top center / cover no-repeat;}
-    50% {background: url('/assets/img/chicago.jpg') top center / cover no-repeat;}
-    100% {background: url('/assets/img/la.jpg') top center / cover no-repeat;}
+    0% {background: url('https://github.com/vogiaan1904/f8-the-band/blob/main/assets/img/ny.jpg')top center / cover no-repeat;}
+    50% {background: url('https://github.com/vogiaan1904/f8-the-band/blob/main/assets/img/chicago.jpg') top center / cover no-repeat;}
+    100% {background: url('https://github.com/vogiaan1904/f8-the-band/blob/main/assets/img/la.jpg') top center / cover no-repeat;}
 
 }
 
